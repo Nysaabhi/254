@@ -10745,7 +10745,7 @@ function openTransportPage(transportName) {
           <i class="fas fa-directions"></i> Get Directions
         </a>
         <button class="secondary-action" onclick="showChatSupport('${transport.details.name}')">
-          <i class="fas fa-comment-alt"></i> Contact Service
+          <i class="fas fa-comment-alt"></i> Contact
         </button>
       </div>
     </div>
